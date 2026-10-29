@@ -241,4 +241,4 @@ This repository serves as the official landing page for Outlast. The software is
 **Get the most recent version of Outlast today!**
 
 ---
-**Last updated:** 2026-10-29 09:17:25 UTC
+**Last updated:** 2026-10-29 16:28:07 UTC
